@@ -37,7 +37,7 @@ This project is licensed under the MIT License.
 FileAnalyzerPro is a versatile tool for file analysis, providing insights and hash computation.
 
 ## Resources
-- **Tutorial Video**: [Watch on YouTube]([https://www.youtube.com/watch?v=qlM6dWgRk0g](https://youtu.be/63ZRsmxDLOw))
+- **Tutorial Video**: [Watch on YouTube]([https://www.youtube.com/watch?v=qlM6dWgRk0g](https://youtu.be/63ZRsmxDLOw)
 
 ## Activity
 - **Stars**: 0 stars
